@@ -1,1 +1,2 @@
-"hello world"
+puts 'Hello, World!'
+puts 'Приветик'
