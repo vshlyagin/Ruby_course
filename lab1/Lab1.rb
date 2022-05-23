@@ -1,3 +1,2 @@
-puts ("Hello world!!!")
-puts ("Hello")
-ddd
+puts "Hello world!!!"
+puts "Hello"
