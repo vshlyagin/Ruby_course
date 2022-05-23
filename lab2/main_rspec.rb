@@ -1,5 +1,5 @@
 require 'rspec'
-require_relative 'main'
+require_relative 'main.rb'
 
 RSpec.describe "greetings" do
   it "do ok for <18" do
