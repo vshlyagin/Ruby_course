@@ -1,4 +1,3 @@
-puts 
 
 def closeOnCS(word)
 	if (word[-2..-1] == "CS")
@@ -13,10 +12,6 @@ print "Enter a word : "
 words = gets.to_s.chomp
 
 closeOnCS words
-
-puts
-
-puts
 
 def spisokPokemonov()
     print "Enter number of Pokemons: "
@@ -37,6 +32,5 @@ def spisokPokemonov()
     puts "Pokemon list you created: "
     pokemons.each { |x, y| puts "Name:#{x}: Color:#{y}, " }
 end
-
 spisokPokemonov
 
