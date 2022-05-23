@@ -8,7 +8,7 @@ def greeting(name, secondName, old)
 		end
 end
 
-greeting "Илья", "Бондарчук", 17
+greeting "Valentine", "Shlyagin", 17
 
 
 
